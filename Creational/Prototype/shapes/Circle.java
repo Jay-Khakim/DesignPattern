@@ -1,4 +1,4 @@
-package Prototype.shapes;
+package Creational.Prototype.shapes;
 
 public class Circle extends Shape {
     public int radius;

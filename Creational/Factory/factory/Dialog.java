@@ -1,6 +1,6 @@
-package factory;
+package Creational.Factory.factory;
 
-import buttons.Button;
+import Creational.Factory.buttons.Button;
 
 public abstract class Dialog {
     public void renderWindow(){

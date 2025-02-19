@@ -1,4 +1,4 @@
-package buttons;
+package Creational.Factory.buttons;
 
 public class HtmlButton implements Button {
     public void render(){

@@ -1,7 +1,7 @@
-package Prototype;
+package Creational.Prototype;
 
-import Prototype.cache.BundledShapeCache;
-import Prototype.shapes.Shape;
+import Creational.Prototype.cache.BundledShapeCache;
+import Creational.Prototype.shapes.Shape;
 
 public class Demo2 {
     public static void main(String[] args){

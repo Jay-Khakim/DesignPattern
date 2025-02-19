@@ -1,7 +1,7 @@
-package factory;
+package Creational.Factory.factory;
 
-import buttons.Button;
-import buttons.HtmlButton;
+import Creational.Factory.buttons.Button;
+import Creational.Factory.buttons.HtmlButton;
 
 public class HtmlDialog extends Dialog{
     

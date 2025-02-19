@@ -1,11 +1,11 @@
-package Prototype;
+package Creational.Prototype;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import Prototype.shapes.Circle;
-import Prototype.shapes.Rectangle;
-import Prototype.shapes.Shape;
+import Creational.Prototype.shapes.Circle;
+import Creational.Prototype.shapes.Rectangle;
+import Creational.Prototype.shapes.Shape;
 
 public class Demo {
     public static void main(String[] args){

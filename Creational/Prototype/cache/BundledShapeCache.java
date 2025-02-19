@@ -1,11 +1,11 @@
-package Prototype.cache;
+package Creational.Prototype.cache;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import Prototype.shapes.Circle;
-import Prototype.shapes.Rectangle;
-import Prototype.shapes.Shape;
+import Creational.Prototype.shapes.Circle;
+import Creational.Prototype.shapes.Rectangle;
+import Creational.Prototype.shapes.Shape;
 
 public class BundledShapeCache {
     private Map<String, Shape> cache = new HashMap<>();

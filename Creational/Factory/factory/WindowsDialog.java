@@ -1,7 +1,7 @@
-package factory;
+package Creational.Factory.factory;
 
-import buttons.Button;
-import buttons.WindowsButton;
+import Creational.Factory.buttons.Button;
+import Creational.Factory.buttons.WindowsButton;
 
 public class WindowsDialog  extends Dialog{
     

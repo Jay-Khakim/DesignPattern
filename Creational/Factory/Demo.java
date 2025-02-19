@@ -1,6 +1,6 @@
-import factory.Dialog;
-import factory.HtmlDialog;
-import factory.WindowsDialog;
+import Creational.Factory.factory.Dialog;
+import Creational.Factory.factory.HtmlDialog;
+import Creational.Factory.factory.WindowsDialog;
 
 /**
  * Demo class. Everything comes together here.
