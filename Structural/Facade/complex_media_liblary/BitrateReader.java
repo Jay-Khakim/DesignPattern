@@ -1,4 +1,4 @@
-package DesignPattern.Facade.complex_media_liblary;
+package Facade.complex_media_liblary;
 
 public class BitrateReader {
     public static VideoFile read(VideoFile file, Codec codec){
